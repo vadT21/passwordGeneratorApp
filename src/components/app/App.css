@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  gap: 1rem;
+  color: hsl(var(--clr-almostWhite));
+}
+h1 {
+  font-size: var(--fs-3);
+  color: hsl(var(--clr-grey));
+  user-select: none;
+}
