@@ -1,3 +1,4 @@
+The result: https://vadt21.github.io/passwordGeneratorApp/
 📝Brief
 Your challenge is to build out this password generator app and get it looking as close to the design as possible.
 
